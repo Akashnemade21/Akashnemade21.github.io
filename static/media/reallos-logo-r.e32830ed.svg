@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="48" viewBox="0 0 54 48">
+  <defs>
+    <filter id="Path_516" x="12.617" y="10.367" width="32.223" height="37.597" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_513" x="16.613" y="10.302" width="37.387" height="22.244" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_658" x="12.229" y="10.302" width="22.547" height="37.698" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_512" x="18.844" y="22.756" width="26.115" height="25.207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_514" x="13.607" y="0" width="40.381" height="32.336" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_515" x="0" y="0.001" width="40.611" height="33.205" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_965" data-name="Group 965" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_516)">
+      <path id="Path_516-2" data-name="Path 516" d="M-10.624-40.871l4.269.1L-10.111-47.8a6.472,6.472,0,0,0,3.527-5.683A6.626,6.626,0,0,0-13.147-60.2l-7.427.294,0,19.021,4.15.283v-6.439h2.078ZM-16.428-56h3.281a2.352,2.352,0,0,1,2.187,2.52,2.352,2.352,0,0,1-2.187,2.52h-3.281Z" transform="translate(42.19 76.57)" fill="#3a348f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_513)">
+      <path id="Path_513-2" data-name="Path 513" d="M0,9.085,4.038,0l.206,19.379L0,19.387Z" transform="translate(45 16.3) rotate(90)" fill="#3a348f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_658)">
+      <path id="Rectangle_658-2" data-name="Rectangle 658" d="M2,0H4.547a0,0,0,0,1,0,0V19.7a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(21.23 16.3)" fill="#3a348f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_512)">
+      <path id="Path_512-2" data-name="Path 512" d="M-13.991,48.639l4.244-.769,3.623,6.421s.471.786.119.786h-3.56a1.767,1.767,0,0,1-.687-.148,1.164,1.164,0,0,1-.433-.438Z" transform="translate(41.83 -19.11)" fill="#3a348f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_514)">
+      <path id="Path_514-2" data-name="Path 514" d="M-46.033,27.983l8.985-1.162,13.4,14.336-9.056-4.017Z" transform="translate(68.64 -20.82)" fill="#3a348f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_515)">
+      <path id="Path_515-2" data-name="Path 515" d="M-25.674,26.826h-6.5a3.433,3.433,0,0,0-1.321.207,3.888,3.888,0,0,0-1.139.8l-13.654,14.2h4.36Z" transform="translate(57.29 -20.82)" fill="#3a348f"/>
+    </g>
+  </g>
+</svg>
